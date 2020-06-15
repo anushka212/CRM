@@ -1,0 +1,40 @@
+.authen{
+    
+    position: absolute;
+    text-align: center;
+
+background: rgb(62, 129, 66);
+font-size: xx-large;
+width:500px;
+height:160px;
+border-color: crimson;
+margin-left: auto;
+margin-right: auto;
+padding-top: 60px;
+
+
+
+}
+
+.atten{
+    position: absolute;
+    text-align: start;
+font-size: x-large;
+background-color: darkseagreen;
+text-align: left;
+top: 170px;
+padding: 87px
+}
+
+.outline {
+    background-color:lightcoral;
+    border-style: solid;
+    margin:auto;
+    width: 500px;
+    height:500px;
+    border-color:gray !important;
+    position:relative;
+  
+
+
+}
